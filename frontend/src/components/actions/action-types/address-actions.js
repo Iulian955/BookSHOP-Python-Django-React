@@ -1,0 +1,3 @@
+export const ADD_ADDRESS = "ADD_ADDRESS";
+export const FAIL_ADDRESS = "FAIL_ADDRESS";
+export const FINISH_ADDRESS = "FINISH_ADDRESS";
