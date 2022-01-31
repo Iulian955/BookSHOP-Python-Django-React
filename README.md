@@ -6,3 +6,5 @@ Install React
 npm install
 create virtual enviroment
 python -m venv env
+pip install 
+pip install -r requirements.txt
